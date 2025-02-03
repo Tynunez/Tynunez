@@ -6,7 +6,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tynunez/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tynunez/azure-network-protocols)
   - [Network File Shares and Permissions](https://github.com/tynunez/network-file-shares-and-permissions)
-  - [Building Intuition for DNS](https:://github.com/tynunez/building-intuition-for-dns)
+  - [Building Intuition for DNS](https://github.com/tynunez/building-intuition-for-dns)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/tynunez/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/tynunez/post-install-config)
