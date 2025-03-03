@@ -1,4 +1,6 @@
-<h1>Hi, I'm Tyrone, an <a href="https://linkedin.com/in/tyronenunez">IT Professional</a></h1>
+<h1>Hi, I'm Tyrone!😄</a></h1>
+
+<p>Take a look at some of the exciting projects I’ve been working on!</p>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
