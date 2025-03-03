@@ -2,7 +2,7 @@
 
 <p>Take a look at some of the exciting projects I’ve been working on!</p>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻📶 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tynunez/configure-ad)
