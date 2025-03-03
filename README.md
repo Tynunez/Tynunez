@@ -16,7 +16,7 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | LinkedIn" width="75px" src="https://i.imgur.com/8j8food.png" />][linkedin]
+[<img align="left" alt="Josh | LinkedIn" width="50px" src="https://i.imgur.com/Oz6RFJx.png"/>][linkedin]
 
 [linkedin]: https://linkedin.com/in/tyronenunez
 
